@@ -1,7 +1,7 @@
 - Board use STM32F405RGT6 chip, 168Mhz.
 - Gyro MPU6050
 - Barometer BMP280
-- I2C Com (MPU 0x68  BMP 0x72). Factmode (400KHz)
+- I2C Com (MPU 0x68  BMP 0x72). Fastmode (400KHz)
 
 
 
